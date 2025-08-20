@@ -1,6 +1,10 @@
 # Convention Keeper
 
-This is a Unity Editor Tool for batch renaming GameObjects and assets with advanced features like regex support, templates, and operation history. Convention Keeper streamlines the process of maintaining consistent naming conventions across your Unity projects. Whether you're organizing scene objects or cleaning up asset names, this tool provides flexible renaming capabilities with a safety net of undo operations.
+This is a Unity Editor Tool for batch renaming GameObjects and assets with advanced features like regex support, templates, and operation history.
+
+## Overview
+
+Convention Keeper streamlines the process of maintaining consistent naming conventions across your Unity projects. Whether you're organizing scene objects or cleaning up asset names, this tool provides flexible renaming capabilities with a safety net of undo operations.
 
 ## Key Features
 
